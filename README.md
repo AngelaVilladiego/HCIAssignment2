@@ -6,7 +6,7 @@ In this prototype, I've improved the UI/UX and HCI for this prototype by analysi
 
 The prototype can be viewed in the following places:
 
-**Figma Link:** https://www.figma.com/file/RUe2C2NZCVqZE82aJmknxa/Prototype-2-Angela-Villadiego?node-id=0%3A1
+**Figma Link:** https://www.figma.com/file/RUe2C2NZCVqZE82aJmknxa/Prototype-2-Angela-Villadiego?node-id=0%3A1  
 **YouTube Demo:** https://youtu.be/EuLVk6010pk
 
 ## Needfinding / Competitive Analysis Section

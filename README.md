@@ -9,6 +9,17 @@ The prototype can be viewed in the following places:
 **Figma Link:** https://www.figma.com/file/RUe2C2NZCVqZE82aJmknxa/Prototype-2-Angela-Villadiego?node-id=0%3A1  
 **YouTube Demo:** https://youtu.be/EuLVk6010pk
 
+## Prototype Images
+
+**Imgur Album Link:** https://imgur.com/a/TFrVmnV
+![prototype image](https://i.imgur.com/AajFAkD.jpeg)  
+![prototype image](https://i.imgur.com/KkUogTf.jpeg)  
+![prototype image](https://i.imgur.com/Eah5XKE.jpeg)  
+![prototype image](https://i.imgur.com/3290ImF.jpeg)  
+![prototype image](https://i.imgur.com/J20BHIq.jpeg)  
+![prototype image](https://i.imgur.com/hFgrxfF.jpeg)  
+![prototype image](https://i.imgur.com/ib0kSjq.jpeg)
+
 ## Needfinding / Competitive Analysis Section
 
 For the needfinding section, I found a need for an application to help people with disabilities navigate the world with more ease and communicate their issues to each other and to business and institutions.
@@ -20,3 +31,5 @@ The top five new desireable functionalities for this application are as follows:
 3) Providing information, links, and contact info surrounding a business/institution's accessibility features and sector
 4) Ratings and reviews based on the accessibility of a location
 5) Filtering of ratings and reviews by accessibility needs of a user
+
+
